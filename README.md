@@ -91,25 +91,33 @@ Proyecto final DAM: Aplicación móvil en **Kotlin** con **Firebase** y **Firest
 
 ## 📷 Capturas de Pantalla
 
-### Pantalla Principal (Home)
-<img width="307" height="526" alt="Home" src="https://github.com/user-attachments/assets/5b22d5b1-a888-434e-a49d-81cd62726c21" />
 
 ### Registro de Usuario
+<img width="307" height="526" alt="Home" src="https://github.com/user-attachments/assets/5b22d5b1-a888-434e-a49d-81cd62726c21" />
+
+### Inicio Sesión
 <img width="259" height="490" alt="Registro" src="https://github.com/user-attachments/assets/a180cc22-5bae-49bc-bb42-ebc2f775e085" />
 
-### Creación de Recetas
+### Pantalla Principal (Home)
 <img width="280" height="581" alt="Crear receta" src="https://github.com/user-attachments/assets/26c746a3-f861-4314-aa19-f11db95f2eba" />
 
-### Lista de Compras
+### Recetas Subidas y Crear Receta
 <img width="318" height="492" alt="Lista de compras" src="https://github.com/user-attachments/assets/71da202a-39b6-4afe-9efb-eaadfe083aa5" />
 
-### Recetas de la Comunidad
+### Subir Receta a Celiacosmy
 <img width="263" height="490" alt="Recetas comunidad" src="https://github.com/user-attachments/assets/f33335ef-7e7b-403a-b983-5e22568de368" />
 
-### Valoración de la Aplicación
+### Visualización Receta
+<img width="295" height="529" alt="image" src="https://github.com/user-attachments/assets/36ec02e8-97b3-432e-86ef-f7f5aec5e367" />
+<img width="275" height="528" alt="image" src="https://github.com/user-attachments/assets/f0053d99-9d05-4367-a0e6-7b1b32009ea6" />
+
+### Lista de la Compra
+<img width="256" height="529" alt="image" src="https://github.com/user-attachments/assets/482a37d5-8d01-441c-9adb-b9fd9de7e309" />
+
+### Recetas de la Comunidad
 <img width="248" height="520" alt="Valoración" src="https://github.com/user-attachments/assets/f5536358-092d-48ff-a6e5-2739f30f9ea2" />
 
-### Perfil del Usuario
+### Valoración de la Aplicación
 <img width="293" height="611" alt="Perfil" src="https://github.com/user-attachments/assets/68032b26-a2aa-463e-a68f-76fb54ee0d66" />
 
 ---
