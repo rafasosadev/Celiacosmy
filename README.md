@@ -1,5 +1,13 @@
 # 🍽️ Celiacosmy
 
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
+[![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack&logoColor=white)](https://developer.android.com/jetpack/compose)
+[![Google Analytics](https://img.shields.io/badge/Google_Analytics-EA4335?style=for-the-badge&logo=google-analytics&logoColor=white)](https://analytics.google.com/)
+
+---
+
 Proyecto final DAM: Aplicación móvil en **Kotlin** con **Firebase** y **Firestore**, diseñada para gestionar y compartir recetas sin gluten. Ideal para personas con celiaquía o interesadas en alimentación libre de gluten.
 
 ---
@@ -7,7 +15,7 @@ Proyecto final DAM: Aplicación móvil en **Kotlin** con **Firebase** y **Firest
 ## 📲 Instalación
 
 ### 🔹 APK (Usuarios Android)
-1. Descarga el archivo [Celiacosmy.apk](./Celiacosmy.apk)
+1. Descarga el archivo [Celiacosmy.apk](https://drive.google.com/uc?export=download&id=1lBwgzCNoQbnv_QF5g7lm47_AF_Y7Nuik)
 2. Habilita la instalación desde orígenes desconocidos:
    - Ajustes > Seguridad > Orígenes desconocidos > Activar
 3. Ejecuta el APK y sigue los pasos.
@@ -19,7 +27,10 @@ Proyecto final DAM: Aplicación móvil en **Kotlin** con **Firebase** y **Firest
 - Dispositivo Android o emulador con virtualización activada
 
 **Pasos:**
-1. Descarga o clona el repositorio.
+1. Descarga el ZIP: [Celiacosmy Source Code](https://drive.google.com/uc?export=download&id=1So7lWFipW9nHn9GxiSzQf5_vPA8iUZ7g)
+2. O clona el repositorio usando Git:  
+   ```bash
+   git clone https://github.com/tu_usuario/Celiacosmy.git
 2. Abre Android Studio → "Open an existing Android Studio project".
 3. Selecciona la carpeta `source/`.
 4. Gradle sincronizará dependencias automáticamente.
@@ -87,5 +98,10 @@ Proyecto final DAM: Aplicación móvil en **Kotlin** con **Firebase** y **Firest
 <img width="248" height="520" alt="image" src="https://github.com/user-attachments/assets/f5536358-092d-48ff-a6e5-2739f30f9ea2" />
 <img width="293" height="611" alt="image" src="https://github.com/user-attachments/assets/68032b26-a2aa-463e-a68f-76fb54ee0d66" />
 
+---
 
+## 🙏 Agradecimientos
 
+Gracias por tomarte el tiempo de revisar **Celiacosmy**.  
+Espero que esta aplicación sea útil para la comunidad celíaca y aquellos interesados en una alimentación libre de gluten.  
+¡Disfruta cocinando y compartiendo recetas sin gluten! 🌾✨
