@@ -22,19 +22,13 @@ Proyecto final DAM: Aplicación móvil en **Kotlin** con **Firebase** y **Firest
 4. Abre la app desde el icono generado.
 
 ### 💻 Código Fuente (Desarrolladores)
+
+Si deseas acceder al código fuente completo del proyecto, por favor **solicítalo por correo electrónico** a:  
+📧 [rafasl1993@gmail.com](mailto:rafasl1993@gmail.com)
+
 **Requisitos:**
 - Android Studio
 - Dispositivo Android o emulador con virtualización activada
-
-**Pasos:**
-1. Descarga el ZIP: [Celiacosmy Source Code](https://drive.google.com/uc?export=download&id=1So7lWFipW9nHn9GxiSzQf5_vPA8iUZ7g)
-2. O clona el repositorio usando Git:  
-   ```bash
-   git clone https://github.com/tu_usuario/Celiacosmy.git
-2. Abre Android Studio → "Open an existing Android Studio project".
-3. Selecciona la carpeta `source/`.
-4. Gradle sincronizará dependencias automáticamente.
-5. Ejecuta la app en emulador o dispositivo físico (Shift + F10 o botón Run).
 
 ---
 
