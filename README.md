@@ -91,27 +91,26 @@ Proyecto final DAM: Aplicación móvil en **Kotlin** con **Firebase** y **Firest
 
 ## 📷 Capturas de Pantalla
 
-<img width="307" height="526" alt="Home" src="https://github.com/user-attachments/assets/5b22d5b1-a888-434e-a49d-81cd62726c21" />  
-**Pantalla Principal (Home)**: Desde aquí el usuario puede acceder a "Mis Recetas", "Recetas de la Comunidad", información sobre celiaquía y valorar la aplicación.
+### Pantalla Principal (Home)
+<img width="307" height="526" alt="Home" src="https://github.com/user-attachments/assets/5b22d5b1-a888-434e-a49d-81cd62726c21" />
 
-<img width="259" height="490" alt="Registro" src="https://github.com/user-attachments/assets/a180cc22-5bae-49bc-bb42-ebc2f775e085" />  
-**Registro de Usuario**: Interfaz donde el usuario se registra con nombre, correo y contraseña.
+### Registro de Usuario
+<img width="259" height="490" alt="Registro" src="https://github.com/user-attachments/assets/a180cc22-5bae-49bc-bb42-ebc2f775e085" />
 
-<img width="280" height="581" alt="Crear receta" src="https://github.com/user-attachments/assets/26c746a3-f861-4314-aa19-f11db95f2eba" />  
-**Creación de Recetas**: Formulario para añadir nombre, ingredientes y pasos de preparación.
+### Creación de Recetas
+<img width="280" height="581" alt="Crear receta" src="https://github.com/user-attachments/assets/26c746a3-f861-4314-aa19-f11db95f2eba" />
 
-<img width="318" height="492" alt="Lista de compras" src="https://github.com/user-attachments/assets/71da202a-39b6-4afe-9efb-eaadfe083aa5" />  
-**Lista de Compras**: Visualización de los ingredientes seleccionados para la lista de compras.
+### Lista de Compras
+<img width="318" height="492" alt="Lista de compras" src="https://github.com/user-attachments/assets/71da202a-39b6-4afe-9efb-eaadfe083aa5" />
 
-<img width="263" height="490" alt="Recetas comunidad" src="https://github.com/user-attachments/assets/f33335ef-7e7b-403a-b983-5e22568de368" />  
-**Recetas de la Comunidad**: Interfaz para filtrar y visualizar recetas compartidas por otros usuarios.
+### Recetas de la Comunidad
+<img width="263" height="490" alt="Recetas comunidad" src="https://github.com/user-attachments/assets/f33335ef-7e7b-403a-b983-5e22568de368" />
 
-<img width="248" height="520" alt="Valoración" src="https://github.com/user-attachments/assets/f5536358-092d-48ff-a6e5-2739f30f9ea2" />  
-**Valoración de la Aplicación**: Los usuarios pueden valorar la app y dejar sugerencias.
+### Valoración de la Aplicación
+<img width="248" height="520" alt="Valoración" src="https://github.com/user-attachments/assets/f5536358-092d-48ff-a6e5-2739f30f9ea2" />
 
-<img width="293" height="611" alt="Perfil" src="https://github.com/user-attachments/assets/68032b26-a2aa-463e-a68f-76fb54ee0d66" />  
-**Perfil del Usuario**: Permite actualizar datos personales como nombre, ubicación, fecha de nacimiento y estado celíaco.
-
+### Perfil del Usuario
+<img width="293" height="611" alt="Perfil" src="https://github.com/user-attachments/assets/68032b26-a2aa-463e-a68f-76fb54ee0d66" />
 
 ---
 
